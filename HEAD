@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 ce2bf25cae81757381fb9c4b7507f61299ce9510 Equipo SafeRoute <equipo@saferoute.local> 1791045663 +0000	commit (initial): chore: estructura inicial del proyecto
+ce2bf25cae81757381fb9c4b7507f61299ce9510 ce2bf25cae81757381fb9c4b7507f61299ce9510 Equipo SafeRoute <equipo@saferoute.local> 1791045663 +0000	checkout: moving from main to feature/calculo-peso-envio
+ce2bf25cae81757381fb9c4b7507f61299ce9510 8eb6f92cc79a654e1a1dd1682eac3f3c231fc9b4 Equipo SafeRoute <equipo@saferoute.local> 1791045663 +0000	commit: test: prueba para calcular peso total del envío (RED)
+8eb6f92cc79a654e1a1dd1682eac3f3c231fc9b4 cee7e388b7c067011b1c06543d59c1b1bdd13fcb Equipo SafeRoute <equipo@saferoute.local> 1791045663 +0000	commit: feat: calcular peso total del envío (GREEN)
+cee7e388b7c067011b1c06543d59c1b1bdd13fcb 3da11e120f95ab46c230a012cfa53070d84ea48b Equipo SafeRoute <equipo@saferoute.local> 1791045663 +0000	commit: refactor: simplificar cálculo de peso total
